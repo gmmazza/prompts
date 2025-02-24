@@ -1,0 +1,23 @@
+# OBJETIVO: extaer timestamps de video de youtube para recrearlos en Obsidian.md
+Estos son los datos a utilizar:
+A. Información del sitio web: 
+Link
+B. Lista de tiempos
+Texto de tiempos
+
+## INSTRUCCIONES
+Presentar la información lista para copiar, sin comentarios, solo el resultado.
+
+1.  Usar el link. Si el nombre del sitio comienza con un número entre paréntesis, quitarlo. 
+Escribir el título con este formato: ## traducido al español - ( título en original).
+2. Escrbir debajo la URL en este formato:
+```timestamp-url 
+ https://www.youtube.com/watch?
+```
+
+3. Usar la lista de tiempos: Escribir títulos de la lista de tiempos en este formato:
+### Número de ítem). Traducido al español - (título en original).
+y escribir debajo el tiempo dentro de este formato y dejar una línea vacía.
+```timestamp 
+ 05:58
+ ```
